@@ -1,62 +1,0 @@
-   Ana Clara
-                  ûa     8lý                  Linux
-                       «e@                      TI
-        .¹lý         0Úlý                   «     1133224455
-        1199887766
-         ana.clara@linux.com
-    ûa            0Úlý   «     X      Bruno Silva
-                 ûa     8lý                  Google
-                      «e@                      Marketing
-  .¹lý         0Úlý                   «     1122334455
-        1199776655
-         bruno.silva@google.com
-  ûa            0Úlý   «     X      Carla Mendes
-                ûa     8lý                  Embraer
-                      «e@                      Sustentabilidade
-          0Úlý                   «     1144556677
-        1199123456
-         carla.mendes@embraer.com
- a            0Úlý   «     X      Daniel Rocha
-                ûa     8lý                  Casas Bahia
-                  «e@                      Logista
-    .¹lý         0Úlý                   «     1155667788
-        1199345678
-         daniel.rocha@casasbahia.com
-           0Úlý   «     X      Eduarda Lima
-                ûa     8lý                  CVC
-                         «e@                      Financeiro
- .¹lý         0Úlý                   «     1166778899
-        11994567
-           eduarda.lima@cvc.com
-    ûa            0Úlý   «     X      Felipe Nunes
-                ûa     8lý                  Banco do Brasil
-               «e@                      Desenvolvimento
-          0Úlý                   «     1177889900
-        1199456123
-         felipe.nunes@bb.com
-    ûa            0Úlý   «     X       Ana Clara
-                  ûa     8lý                  Eztec
-                       «e@                      Engenharia
- .¹lý         0Úlý                   «     1188990011
-        1199234567
-         anninha@eztc.com
- lý   ûa            0Úlý   «     X      Henrique Alves
-              ûa     8lý                  Samsung
-                      «e@                      TI
-        .¹lý         0Úlý                   «     1199001122
-        1199011223
-         henrique@samsung.com
-    ûa            0Úlý   «     X   	   Isabela Ferreira
-            ûa     8lý                  Movit
-                       «e@                      RH
-        .¹lý         0Úlý                   «     1133445566
-        1199123765
-         isabela.ferreira@movit.com
-            0Úlý   «     X   
-   JoÆo Pedro
-                 ûa     8lý                  Saraiva
-                      «e@                      Financeiro
- .¹lý         0Úlý                   «     1144667788
-        1199345670
-         joa.pedro@saraiva.com
-   ûa            0Úlý   «     X   
